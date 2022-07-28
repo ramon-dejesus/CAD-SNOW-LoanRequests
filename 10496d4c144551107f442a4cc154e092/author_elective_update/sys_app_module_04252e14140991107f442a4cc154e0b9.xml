@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">24cae1cc144551107f442a4cc154e04f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>new tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_loaner_req_st_new_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_loaner_req.new_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-28 15:36:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>04252e14140991107f442a4cc154e0b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">10496d4c144551107f442a4cc154e092</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">10496d4c144551107f442a4cc154e092</sys_scope>
+        <sys_update_name>sys_app_module_04252e14140991107f442a4cc154e0b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-28 15:36:56</sys_updated_on>
+        <timeline_page/>
+        <title>new tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">10496d4c144551107f442a4cc154e092</application>
+        <file_path/>
+        <instance_id>33b140bbdbb89d10d2c8e79705961918</instance_id>
+        <instance_name>adf-jul-247-dev-003</instance_name>
+        <name>sys_app_module_04252e14140991107f442a4cc154e0b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">24cae1cc144551107f442a4cc154e04f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>new tables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_loaner_req_st_new_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_loaner_req.new_table_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-28 15:36:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>04252e14140991107f442a4cc154e0b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>new tables</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">10496d4c144551107f442a4cc154e092</sys_package><sys_policy/><sys_scope display_value="Loaner Request">10496d4c144551107f442a4cc154e092</sys_scope><sys_update_name>sys_app_module_04252e14140991107f442a4cc154e0b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-28 15:36:56</sys_updated_on><timeline_page/><title>new tables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>352110000</payload_hash>
+        <record_name>new tables</record_name>
+        <reverted_from/>
+        <source>2708fdc8148551107f442a4cc154e0ab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-28 15:36:56</sys_created_on>
+        <sys_id>c4252e14140991107f442a4cc154e0bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1824574272c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-28 15:36:56</sys_updated_on>
+        <type>Module</type>
+        <update_guid>00252e1407099110860c0e38411e62bc</update_guid>
+        <update_guid_history>00252e1407099110860c0e38411e62bc:352110000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="new tables">ddf5ee54140991107f442a4cc154e0d2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-28 15:40:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>013ca254d32b48c880053227abf53571</sys_id>
+        <sys_metadata>04252e14140991107f442a4cc154e0b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new tables</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">10496d4c144551107f442a4cc154e092</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">10496d4c144551107f442a4cc154e092</sys_scope>
+        <sys_scope_delete display_value="">4c4b4df9ecb64389a2d0055a1b04f161</sys_scope_delete>
+        <sys_update_name>sys_app_module_04252e14140991107f442a4cc154e0b9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_04252e14140991107f442a4cc154e0b9">c4252e14140991107f442a4cc154e0bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-28 15:40:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
